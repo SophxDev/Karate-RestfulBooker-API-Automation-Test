@@ -1,0 +1,13 @@
+{
+  "firstname": "Jaqueline",
+  "lastname": "Espino",
+  "totalprice": 150,
+  "depositpaid": true,
+  "bookingdates":
+  {
+    "checkin": "2023-01-01",
+    "checkout": "2023-01-05"
+  },
+  "additionalneeds": "Breakfast"
+
+}
